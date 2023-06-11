@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871444787545",
+    "project_id": "fir-pinput-457f2",
+    "storage_bucket": "fir-pinput-457f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871444787545:android:5c519d9e1043ce080d9c48",
+        "android_client_info": {
+          "package_name": "com.android.firebase_pinput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871444787545-ittud4gvsk3umt7ea83ci1hu2eabfcdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0iDtDjEKD5oU3-M1TlXWOAUqQKVxEovc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871444787545-ittud4gvsk3umt7ea83ci1hu2eabfcdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
